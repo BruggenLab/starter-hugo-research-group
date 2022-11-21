@@ -17,5 +17,5 @@ organizations:
 email: ''
 
 user_groups:
-  - MD Students
+  - Members
 ---

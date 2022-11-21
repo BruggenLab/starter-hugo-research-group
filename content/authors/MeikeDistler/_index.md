@@ -17,5 +17,5 @@ organizations:
 email: ''
 
 user_groups:
-  - Administration
+  - Members
 ---

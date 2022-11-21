@@ -1,10 +1,10 @@
 ---
-title: Congratulations to Danielle for starting her P.h.D
-date: 2020-12-01
+title: Congratulations to Danielle Fehr for the wining of graubünden forscht 2022
+date: 2022-09-01
 ---
 
-Congratulations to Danielle Fehr for ....
+Congratulations to Danielle Fehr for the wining of #graubünden forscht 2022
 
 <!--more-->
 
-more description
+The Academia Raetica Switzerland congratulates the winners of #graubünden forscht 2022. We would like to thank all speakers, chairs, helpers and visitors for being there! See you again in 2024!

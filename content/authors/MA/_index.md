@@ -3,7 +3,9 @@
 title: M.Milad Ameri
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
+
+weight: 5
 
 # Role/position
 role: PhD candidate
@@ -64,7 +66,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+  - Members
 ---
 
 M.Milad Ameri is our group data scientist and focused on single-cell data analysis. He did his bachelor’s in computer engineering at Amirkabir university of technology (Tehran polytechnic) Tehran, Iran and his masters in Neuroscience at University of Geneva, Geneva, Switzerland focused on computational neuroscience and decision making. He started his carrier as bioinformatician and data analysis at our group since April 2021 and his focused is on performing single-cell based statistical approaches on imaging mass cytometry (IMC) and conducting statistical analysis on clinical data.

@@ -1,9 +1,11 @@
 ---
 # Display name
-title: Danielle Fehr
+title: Danielle Céline Fehr
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
+
+weight: 4
 
 # Role/position
 role: PhD candidate
@@ -40,15 +42,6 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'Danielle.fehr@usz.ch'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.co.uk
-  - icon: github
-    icon_pack: fab
-    link: https://github.com
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -64,7 +57,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+  - Members
 ---
 
 Danielle Fehr is a physician and PhD candidate intrigued by the fields of allergology and dermatology. During her medical studies, she wrote her master’s thesis about indicators and risk factors in Hymenoptera venom allergies and won a prize of the University of Zurich. She is also fascinated by the African continent: She worked as a teacher at a primary school in Rwanda and gained clinical experience in Madagascar. Her current research focuses on atopic dermatitis, a disease at the intersection of dermatology and allergology – one investigated aspect being the differences between European and African atopic dermatitis patients. Being enrolled in the PhD program Clinical Science and working as a study doctor, she is now able to combine her two passions: expanding her knowledge by conducting research and caring for patients at the same time.

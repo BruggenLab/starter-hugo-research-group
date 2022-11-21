@@ -3,8 +3,9 @@
 title: Anna White
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
+weight: 2
 # Role/position
 role: Lab Manager
 
@@ -40,15 +41,6 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'Anna.White@usz.ch'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.co.uk
-  - icon: github
-    icon_pack: fab
-    link: https://github.com
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -64,7 +56,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+  - Members
 ---
 
 TBF by Anna

@@ -6,6 +6,8 @@ active: false
 # Is this the primary user of the site?
 superuser: false
 
+weight: 6
+
 # Role/position
 role: MD candidate
 
@@ -17,5 +19,5 @@ organizations:
 email: ''
 
 user_groups:
-  - MD Students
+  - Members
 ---
