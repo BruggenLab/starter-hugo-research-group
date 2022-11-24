@@ -1,13 +1,14 @@
 ---
-title: 'Supportive care in the acute phase of Stevens–Johnson syndrome and toxic epidermal necrolysis: an international, multidisciplinary Delphi-based consensus'
+title: 'Exposure to avian coronavirus vaccines is associated with increased levels of SARS-CoV-2-cross-reactive antibodies'
 authors:
-  - Brüggen MC, ..., Ingen-Housz-Oro S
+  - Ardicli O, ... Bruggen MC, Akdis CA, van de Veen W
 
-date: '2015-09-01T00:00:00Z'
+
+date: '2022-07-23T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2022-07-23T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -16,10 +17,10 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: '*british journal of dermatology*'
+publication: '*Allergy* European Journal of Allergy and Clinical Immunology'
 publication_short: ''
 
-abstract: Supportive care is the cornerstone of management of adult and paediatric Stevens–Johnson syndrome (SJS) and toxic epidermal necrolysis (TEN). However, consensus on the modalities of supportive care is lacking.
+abstract: Exposure to avian coronavirus vaccines is associated with increased levels of SARS-CoV-2-cross-reactive antibodies.
 
 
 # Summary. An optional shortened abstract.
@@ -32,7 +33,7 @@ abstract: Supportive care is the cornerstone of management of adult and paediatr
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://pubmed.ncbi.nlm.nih.gov/33657677/
+url_pdf: https://europepmc.org/article/med/35869837
 url_code: ''
 #url_dataset: ''
 #url_poster: ''

@@ -1,13 +1,13 @@
 ---
-title: 'Supportive care in the acute phase of Stevens–Johnson syndrome and toxic epidermal necrolysis: an international, multidisciplinary Delphi-based consensus'
+title: 'Machine learning-based deep phenotyping of atopic dermatitis: Severity-associated factors in adolescent and adult patients'
 authors:
-  - Brüggen MC, ..., Ingen-Housz-Oro S
+  - Maintz L,... CK-CARE study group Brüggen MC, Schmid S, Bieber T
 
-date: '2015-09-01T00:00:00Z'
+date: '2021-12-01T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2021-12-01T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -16,10 +16,10 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: '*british journal of dermatology*'
+publication: '*JAMA Dermato*'
 publication_short: ''
 
-abstract: Supportive care is the cornerstone of management of adult and paediatric Stevens–Johnson syndrome (SJS) and toxic epidermal necrolysis (TEN). However, consensus on the modalities of supportive care is lacking.
+abstract: "Machine learning based deep phenotyping of atopic dermatitis: Severity-associated factors in adolescent and adult patients"
 
 
 # Summary. An optional shortened abstract.
@@ -32,7 +32,7 @@ abstract: Supportive care is the cornerstone of management of adult and paediatr
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://pubmed.ncbi.nlm.nih.gov/33657677/
+url_pdf: https://jamanetwork.com/journals/jamadermatology/fullarticle/2785834
 url_code: ''
 #url_dataset: ''
 #url_poster: ''
