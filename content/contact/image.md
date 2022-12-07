@@ -14,9 +14,9 @@ title:
 subtitle:
 
 design:
-  columns: '1'
+  columns: '2'
   background:
-    image: contact.jpg
+    image: schlirenpic.jpg
     image_darken: 0
     image_parallax: false
     image_position: center

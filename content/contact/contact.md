@@ -10,7 +10,8 @@ headless: true
 weight: 10
 
 title: Contact Wolfgang Davos
-subtitle:
+
+subtitle:  <img src="davospic.jpg" width="85%">
 
 content:
   # Contact (edit or remove options as required)

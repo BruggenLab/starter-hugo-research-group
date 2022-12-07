@@ -7,10 +7,11 @@ widget: contact
 headless: true
 
 # Order that this section appears on the page.
-weight: 11
+weight: 9
 
 title: Contact Zürich Schlieren
-subtitle:
+
+subtitle: <img src="schlirenpic.jpg" width="50%">
 
 content:
   # Contact (edit or remove options as required)
@@ -27,10 +28,10 @@ content:
 #  coordinates:
 #    latitude: '46.829420'
 #    longitude: '9.857030'
-  directions: Enter the building and find us at the thrid floor 
+  directions: Enter the building and find us at the thrid floor
   office_hours:
-    - 'Monday 10:00 to 13:00'
-    - 'Wednesday 09:00 to 10:00'
+    - 'Tuesday 10:00 to 13:00'
+    - 'Thursday 13:00 to 17:00'
 
   # Automatically link email and phone or display as text?
   autolink: true
