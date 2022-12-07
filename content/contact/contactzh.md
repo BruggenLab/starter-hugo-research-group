@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 9
 
-title: Contact Zürich Schlieren
+title: Zürich Schlieren
 
 subtitle: <img src="schlirenpic.jpg" width="50%">
 
