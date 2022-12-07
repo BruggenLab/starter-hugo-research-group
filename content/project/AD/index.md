@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "ATOPIC DERMATITIS (AD)"
+title: "Atopic Dermatitis (AD)"
 summary: "A short description you wanna show here  ..."
 authors:
       -
@@ -47,3 +47,12 @@ Atopic Dermatitis and Cardiovascular Diseases In this multicenter project, we wa
 Atopic Dermatitis and Food Allergies / Intolerances Many AD patients suffer from concurrent food allergies and even a higher percentage reports food-related exacerbations of their disease. In this project, we want to further explore the potential connection between food sensitization/allergies, food intolerances, nutritional habits and atopic comorbidities in AD patients.
 
 Prospective Longitudinal Observational Research in Atopic Dermatitis (ProRaD) In ProRAD, a study of CK Care (LINK CK CARE WEBSITE/PRORAD), we investigate the mechanisms underlying the natural course, different disease phenotypes and therapy responsiveness in AD and look for new clinically relevant biomarkers as well as new potential therapeutic targets.
+
+
+Related links to this study:
+
+[USZ webpage about the Tanzania-Study](https://www.usz.ch/studie/neurodermitis-neurodermitis-in-europa-und-subsahara-afrika/)
+
+[The link to the study's flyer](https://www.usz.ch/app/uploads/2022/02/2021_12_23_Flyer_Tanzania_V1.4.pdf)
+
+[Our collaboration partner RDTC](https://www.rdtc.ac.tz/)
