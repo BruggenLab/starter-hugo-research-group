@@ -40,7 +40,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'Marie-Charlotte.Brueggen@usz.ch'
+    link: 'mailto:Marie-Charlotte.Brueggen@usz.ch'
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com

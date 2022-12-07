@@ -20,19 +20,20 @@ bio: My research interests include ....
 
 interests:
   - Atopic Dermatitis
-  - Drug allergies (DTH)
+  - Skin barrier
+  - Insect allergies
 
 education:
   courses:
-    - course: PhD in ...
-      institution: Zurich University
-      year: 2012
-    - course: MEs ....
-      institution: Zurich University
-      year: 2009
-    - course: BSc ...
-      institution: Zurich University
-      year: 2008
+    - course: Federal Examination in Human Medicine
+      institution: Bundesamt für Gesundheit
+      year: 2020
+    - course: Master of Medicine
+      institution: University of Zurich
+      year: 2020
+    - course: Bachelor of Medicine
+      institution: University of Zurich
+      year: 2017
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -41,7 +42,10 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'Danielle.fehr@usz.ch'
+    link: 'mailto:Danielle.fehr@usz.ch'
+  - icon: linkedin
+    icon_pack: fab
+    link: 'https://www.linkedin.com/in/danielle-céline-fehr'
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv

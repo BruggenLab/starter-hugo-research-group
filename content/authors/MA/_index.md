@@ -41,7 +41,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'Mohammadmilad.ameri@uzh.ch'
+    link: 'mailto:Mohammadmilad.ameri@uzh.ch'
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com
