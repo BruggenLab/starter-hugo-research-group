@@ -7,9 +7,9 @@ widget: contact
 headless: true
 
 # Order that this section appears on the page.
-weight: 10
+weight: 11
 
-title: Contact Wolfgang Davos
+title: Contact Zürich Schlieren
 subtitle:
 
 content:
@@ -18,10 +18,10 @@ content:
   email: 'bruggenlab@gmail.com'
   phone: +41 81 410 08 44
   address:
-    street: Herman-Burchard-Strasse 9
-    city:  Davos Wolfgang
+    street: Wagistrasse 18
+    city:  Schlieren
     region: CH
-    postcode: '7265'
+    postcode: '8952'
     country: Switzerland
     country_code: CH
 #  coordinates:
@@ -37,6 +37,5 @@ content:
 
 design:
   columns: '2'
-
 
 ---
