@@ -23,16 +23,21 @@ design:
 
 <br>
 
-Our Research Group investigates the immune mechanisms underlying atopic dermatitis and delayed-type drug hypersensitivity reactions. Our aim is to thereby contribute to a better diagnosis and treatment of our patients. We explore immunological functions and processes based in subcutaneous adipose tissue and how these may impact the dermal and epidermal processes under homeostatic and pathological conditions.([see Research]({{< relref "/project" >}})). 
+Our Research Group investigates the immune mechanisms underlying atopic dermatitis and delayed-type drug hypersensitivity reactions. Our aim is to thereby contribute to a better diagnosis and treatment of our patients. We explore immunological functions and processes based in subcutaneous adipose tissue and how these may impact the dermal and epidermal processes under homeostatic and pathological conditions.([see Research]({{< relref "/project" >}})).
+
 
 <div class="row" style= "content: "";  clear: both;  display: table;">
-  <div class="column" style = "float: left; width: 30%; padding: 5px;">
-    <img src="home/uzhlogo.png" alt="" style="width:100%">
+  <div class="column" style = "float: left; width: 25%; padding: 5px;">
+    <a href="https://www.uzh.ch/de.html/"><img src="home/uzhlogo.png"></a>
   </div>
-  <div class="column" style = "float: left; width: 33%; padding: 5px;">
-    <img src="home/uszlogo.jpg" alt="" style="width:100%">
+  <div class="column" style = "float: left; width: 25%; padding: 5px;">
+    <a href="https://www.usz.ch/"><img src="home/uszlogo.jpg"></a>
   </div>
-  <div class="column" style = "float: left; width: 33%; padding: 5px;">
-    <img src="home/hgklogo.jpg" alt="" style="width:100%">
+  <div class="column" style = "float: left; width: 25%; padding: 5px;">
+    <a href="https://www.hochgebirgsklinik.ch/"><img src="home/hgklogo.jpg"></a>
   </div>
+  <div class="column" style = "float: left; width: 25%; padding: 5px;">
+    <a href="https://ck-care.ch/"><img src="home/ckcarelogo.jpg" style="width:80%"></a>
+  </div>
+
 </div>

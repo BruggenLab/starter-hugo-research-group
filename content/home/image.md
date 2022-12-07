@@ -4,7 +4,7 @@
 widget: blank
 
 # Activate this widget? true/false
-active: false
+active: true
 
 # This file represents a page section.
 headless: true
@@ -18,14 +18,14 @@ subtitle:
 design:
   columns: '1'
   background:
-    image: coders.jpg
+    image: IMG_3445.jpg
     image_darken: 0
     image_parallax: false
     image_position: center
     image_size: cover
     text_color_light: true
   spacing:
-    padding: ['20px', '0', '20px', '0']
+    padding: ['20px', '20px', '20px', '20px']
 advanced:
   css_class: fullscreen
 ---
