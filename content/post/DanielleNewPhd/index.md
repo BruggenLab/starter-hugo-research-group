@@ -1,10 +1,10 @@
 ---
-title: Congratulations to Danielle Fehr for the wining of graubünden forscht 2022
+title: Congratulations to Danielle Fehr for the winning a scientific award for the best presentation in medicine at “Graubünden forscht 2022"
 date: 2022-09-01
 ---
 
-Congratulations to Danielle Fehr for the wining of #graubünden forscht 2022
+ #graubünden forscht 2022
 
 <!--more-->
 
-The Academia Raetica Switzerland congratulates the winners of #graubünden forscht 2022. We would like to thank all speakers, chairs, helpers and visitors for being there! See you again in 2024!
+We’re happy to announce that Danielle Fehr won a scientific award for her presentation about the association between atopic dermatitis and cardiovascular diseases at the congress “Graubünden forscht 2022”.
