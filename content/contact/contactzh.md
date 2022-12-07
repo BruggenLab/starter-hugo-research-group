@@ -27,7 +27,7 @@ content:
 #  coordinates:
 #    latitude: '46.829420'
 #    longitude: '9.857030'
-  directions: Enter Building 9 and take the stairs to the Floor 1
+  directions: Enter the building and find us at the thrid floor 
   office_hours:
     - 'Monday 10:00 to 13:00'
     - 'Wednesday 09:00 to 10:00'
