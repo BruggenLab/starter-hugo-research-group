@@ -46,7 +46,7 @@ Atopic Dermatitis and Cardiovascular Diseases In this multicenter project, we wa
 
 Atopic Dermatitis and Food Allergies / Intolerances Many AD patients suffer from concurrent food allergies and even a higher percentage reports food-related exacerbations of their disease. In this project, we want to further explore the potential connection between food sensitization/allergies, food intolerances, nutritional habits and atopic comorbidities in AD patients.
 
-Prospective Longitudinal Observational Research in Atopic Dermatitis (ProRaD) In ProRAD, a study of [CK Care]([https://pubmed.ncbi.nlm.nih.gov/?term=brüggen+mc&sort=date](https://ck-care.ch/studien/pro-rad-studie/)), we investigate the mechanisms underlying the natural course, different disease phenotypes and therapy responsiveness in AD and look for new clinically relevant biomarkers as well as new potential therapeutic targets.
+Prospective Longitudinal Observational Research in Atopic Dermatitis (ProRaD) In ProRAD, a study of [CK Care](https://ck-care.ch/studien/pro-rad-studie/), we investigate the mechanisms underlying the natural course, different disease phenotypes and therapy responsiveness in AD and look for new clinically relevant biomarkers as well as new potential therapeutic targets.
 
 
 Related links to this study:
