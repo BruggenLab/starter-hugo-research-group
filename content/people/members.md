@@ -17,7 +17,3 @@ Nicola Hermann, MD candidate
 Mirjam Meier, Master student
 
 Lena Hirt, Master student
-
-Stephan Traidl, visiting fellow
-
-Nick Li, lab technician
