@@ -5,7 +5,7 @@ title: Anna White
 # Is this the primary user of the site?
 superuser: false
 
-weight: 2
+weight: 6
 # Role/position
 role: Lab Manager
 
