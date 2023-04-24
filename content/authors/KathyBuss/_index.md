@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nick Li
+title: Kathy Buss
 active: false
 
 # Is this the primary user of the site?
@@ -9,7 +9,7 @@ superuser: false
 weight: 9
 
 # Role/position
-role: Lab technician
+role: administrative assistant
 
 # Organizations/Affiliations
 organizations:
@@ -19,7 +19,8 @@ organizations:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:nick.li@usz.ch'
+    link: 'mailto:katharine.buss@gmx.ch'
+
 email: ''
 
 user_groups:
