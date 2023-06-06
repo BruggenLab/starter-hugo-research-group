@@ -16,7 +16,7 @@ publishDate: '2022-06-25T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: 'In *Journal of Allergy*'
+publication: '*Allergy* European Journal of Allergy and Clinical Immunology'
 publication_short: ''
 
 abstract: "
@@ -36,11 +36,11 @@ summary: " "
 #  - Source Themes
 #featured: false
 
-# links:
-# - name: ""
-#   url: ""
-url_pdf: https://onlinelibrary.wiley.com/doi/epdf/10.1111/all.15422
-url_code: ''
+links:
+  - name: Link
+    url: https://onlinelibrary.wiley.com/doi/abs/10.1111/all.15422
+#url_pdf: https://onlinelibrary.wiley.com/doi/epdf/10.1111/all.15422
+#url_code: ''
 #url_dataset: ''
 #url_poster: ''
 #url_project: ''
