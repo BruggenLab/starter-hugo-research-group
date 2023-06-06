@@ -43,11 +43,11 @@ Contact with SARS-CoV-2 infected household members was the most important risk f
 #  - Source Themes
 #featured: false
 
-# links:
-# - name: ""
-#   url: ""
-url_pdf: https://aricjournal.biomedcentral.com/articles/10.1186/s13756-021-01047-x#article-info
-url_code: ''
+links:
+  - name: Link
+    url: https://aricjournal.biomedcentral.com/articles/10.1186/s13756-021-01047-x#article-info
+#url_pdf: https://aricjournal.biomedcentral.com/articles/10.1186/s13756-021-01047-x#article-info
+#url_code: ''
 #url_dataset: ''
 #url_poster: ''
 #url_project: ''
