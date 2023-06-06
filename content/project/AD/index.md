@@ -2,12 +2,12 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Atopic Dermatitis (AD)"
-summary: "A short description you wanna show here  ..."
+summary: "Atopic dermatitis is one of the most chronic inflammatory skin diseases and manifests as red and itchy eczema. We are investigating different aspects to gain more insight into this disease – ranging from immunological mechanisms and sensitization patterns to bacterial and fungal colonizations."
 authors:
       -
 tags: []
 categories: []
-date: 2022-11-16T19:01:16+01:00
+date: 2023-06-05T19:01:16+01:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -40,19 +40,41 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-Atopic Dermatitis: Sub-Saharan Africa vs. Central Europe It is already known that the ethnicity plays an important role in the presentation of AD. However, there is a lack of knowledge about possible variations in pathogenesis. In this prospective observational study, we are comparing AD patients and healthy control participants from Zurich and from Moshi, a city in Tanzania. We compare clinical characteristics, immune signatures, barrier proteins, sensitization patterns as well as the nasal, gut and skin microbiome between AD patients and healthy controls in Tanzania and Switzerland. This project is a collaboration between the University Hospital Zurich and the Regional Dermatology Training Centre in Moshi.
+### **Atopic Dermatitis: Sub-Saharan Africa vs. Central Europe**
 
-Atopic Dermatitis and Cardiovascular Diseases In this multicenter project, we want to further investigate the association between AD and cardiovascular diseases, as the existing evidence is contradictory. We’d like to answer questions such as: Are AD patients at a higher risk for cardiovascular comorbidities? Does the AD severity play a role? How does a possible connection relate to the presence of atopic comorbidities? We therefore analyze data from the ProRaD study (Prospective Longitudinal Observational Research in Atopic Dermatitis), which includes more than 705 AD patients and 80 healthy control participants and perform targeted high-throughput proteomics analyses.
+Atopic dermatitis is a very itchy inflammatory skin disease that affects approximately 5-10% of the Swiss population. The quality of life can be severely affected. Just recently, we start to understand that atopic dermatitis is not only very common in Europe, but also in Africa, where subsequent and possibly life-threatening skin infections can occur.
 
-Atopic Dermatitis and Food Allergies / Intolerances Many AD patients suffer from concurrent food allergies and even a higher percentage reports food-related exacerbations of their disease. In this project, we want to further explore the potential connection between food sensitization/allergies, food intolerances, nutritional habits and atopic comorbidities in AD patients.
+Not much is known about possible variations in pathogenesis. Are there genetical differences? To what extent does the microbiome of the skin and gut vary? How much are environmental aspects and nutrition playing a role in the manifestation of the disease? To acquire more knowledge about this topic, we can count on long-standing and growing collaborations with partner hospitals in Tanzania and Madagascar.
 
-Prospective Longitudinal Observational Research in Atopic Dermatitis (ProRaD) In ProRAD, a study of [CK Care](https://ck-care.ch/studien/pro-rad-studie/), we investigate the mechanisms underlying the natural course, different disease phenotypes and therapy responsiveness in AD and look for new clinically relevant biomarkers as well as new potential therapeutic targets.
+Link to the study in Switzerland: [Neurodermitis: Neurodermitis in Europa und Subsahara-Afrika – USZ](https://www.usz.ch/studie/neurodermitis-neurodermitis-in-europa-und-subsahara-afrika/)
+
+Study Flyer: [2021_12_23_Flyer_Tanzania_V1.4.pdf (usz.ch)](https://www.usz.ch/app/uploads/2022/02/2021_12_23_Flyer_Tanzania_V1.4.pdf)
+
+RDTC – our collaborational partner in Tanzania: [RDTC](https://www.rdtc.ac.tz/)
 
 
-Related links to this study:
+### **Atopic Dermatitis and Cardiovascular Diseases**
 
-[USZ webpage about the Tanzania-Study](https://www.usz.ch/studie/neurodermitis-neurodermitis-in-europa-und-subsahara-afrika/)
+Do atopic dermatitis patients have a higher risk of suffering from cardiovascular diseases? Does the severity of atopic dermatitis play a role in a possible connection? This question is inconsistently answered in the existing literature. Being part of the ProRaD study (Prospective Longitudinal Observational Research in Atopic Dermatitis) with study centers in Davos, Augsburg, Bonn and Zurich, we are investigating these questions further. We are also interested in differences on the protein level, which we look into by performing high-throughput proteomics analyses.
 
-[The link to the study's flyer](https://www.usz.ch/app/uploads/2022/02/2021_12_23_Flyer_Tanzania_V1.4.pdf)
+ProRaD study: [Pro-RaD-STUDIE | CK-CARE](https://ck-care.ch/studien/pro-rad-studie/)
 
-[Our collaboration partner RDTC](https://www.rdtc.ac.tz/)
+
+### **Atopic Dermatitis and Food Allergies / Intolerances**
+
+Many patients with atopic dermatitis suffer from concurrent food allergies and even a higher percentage reports food-related exacerbations of their disease. In this project, we want to further explore the potential connection between food sensitization/allergies, food intolerances, nutritional habits and atopic comorbidities in atopic dermatitis patients.
+
+
+ProRaD study: [Pro-RaD-STUDIE | CK-CARE](https://ck-care.ch/studien/pro-rad-studie/)
+
+
+### **Skin Barrier measurements in atopic dermatitis patients**
+
+The skin barrier of patients with atopic dermatitis is not as strong as in skin-healthy individuals. But how can we measure this? In this project, we perform electrical impedance spectroscopy measurements of the skin with a device called Nevisense®. It is already used in clinical practice for the non-invasive risk assessment of melanoma and is now being used in studies for assessing the skin barrier. Do we find differences between affected and non-affected skin of atopic dermatitis patients? And can we develop an algorithm that is able to distinguish between the skin of patients and skin-healthy populations? We are intrigued to find out more about this topic.
+
+Nevisense: [Nevisense - Increased diagnostic accuracy in the detection of skin cancer and skin barrier alterations (scibase.com)](https://scibase.com/)
+
+
+<div class="column" style = "float: left; width: 75%; padding: 5px;">
+  <img src="Tanzania.jpg"></a>
+</div>
