@@ -29,5 +29,7 @@ email: 'camilla.vonwachter@usz.ch'
 user_groups:
   - Members
 ---
-
+<br>
+<br>
+<br>
 Camilla von Wachter is physician and MD candidate. Her current research focus is drug allergies. During her studies she obtained several scholarships (German Society of Internal Medicine, German Cancer Aid etc.). She graduated from medical school in May 2022 at Ludwig-Maximilians-University Munich, Germany.

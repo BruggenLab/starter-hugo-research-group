@@ -18,6 +18,11 @@ organizations:
 
 email: ''
 
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: 'mailto:schmidt_veronika@yahoo.com'
+
 user_groups:
   - Members
 ---
