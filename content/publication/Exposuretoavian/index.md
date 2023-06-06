@@ -20,7 +20,7 @@ publication_types: ['2']
 publication: '*Allergy* European Journal of Allergy and Clinical Immunology'
 publication_short: ''
 
-abstract: Exposure to avian coronavirus vaccines is associated with increased levels of SARS-CoV-2-cross-reactive antibodies.
+abstract: Although avian coronavirus infectious bronchitis virus (IBV) and SARS-CoV-2 belong to different genera of the Coronaviridae family, exposure to IBV may result in the development of cross-reactive antibodies to SARS-CoV-2 due to homologous epitopes. We aimed to investigate whether antibody responses to IBV cross-react with SARS-CoV-2 in poultry farm personnel who are occupationally exposed to aerosolized IBV vaccines. We analyzed sera from poultry farm personnel, COVID-19 patients, and pre-pandemic controls. IgG levels against the SARS-CoV-2 antigens S1, RBD, S2, and N and peptides corresponding to the SARS-CoV-2 ORF3a, N, and S proteins as well as whole virus antigens of the four major S1-genotypes 4/91, IS/1494/06, M41, and D274 of IBV were investigated by in-house ELISAs. Moreover, live-virus neutralization test (VNT) was performed. A subgroup of poultry farm personnel showed elevated levels of specific IgG for all tested SARS-CoV-2 antigens compared with pre-pandemic controls. Moreover, poultry farm personnel, COVID-19 patients, and pre-pandemic controls showed specific IgG antibodies against IBV strains. These antibody titers were higher in long-term vaccine implementers. We observed a strong correlation between IBV-specific IgG and SARS-CoV-2 S1-, RBD-, S2-, and N-specific IgG in poultry farm personnel compared with pre-pandemic controls and COVID-19 patients. However, no neutralization was observed for these cross-reactive antibodies from poultry farm personnel using the VNT. We report here for the first time the detection of cross-reactive IgG antibodies against SARS-CoV-2 antigens in humans exposed to IBV vaccines. These findings may be useful for further studies on the adaptive immunity against COVID-19.
 
 
 # Summary. An optional shortened abstract.
@@ -30,11 +30,11 @@ abstract: Exposure to avian coronavirus vaccines is associated with increased le
 #  - Source Themes
 #featured: false
 
-# links:
-# - name: ""
-#   url: ""
-url_pdf: https://europepmc.org/article/med/35869837
-url_code: ''
+links:
+  - name: Link
+    url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9467642/
+#url_pdf: https://europepmc.org/article/med/35869837
+#url_code: ''
 #url_dataset: ''
 #url_poster: ''
 #url_project: ''
