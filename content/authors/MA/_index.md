@@ -24,15 +24,15 @@ interests:
 
 education:
   courses:
-    - course: PhD in ...
-      institution: Zurich University
-      year: 2012
-    - course: MEs ....
-      institution: Zurich University
-      year: 2009
-    - course: BSc ...
-      institution: Zurich University
-      year: 2008
+    - course: PhD Candidate in Microbiology and immunology
+      institution: University of Zurich
+      year:
+    - course: Master of Neuroscience
+      institution: University of Geneva
+      year: 2020
+    - course: Bachelor of Computer Engineering
+      institution: Amirkabir University of technology
+      year: 2017
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -42,15 +42,15 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:Mohammadmilad.ameri@uzh.ch'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.co.uk
+#  - icon: twitter
+#    icon_pack: fab
+#    link: https://twitter.com
+#  - icon: google-scholar
+#    icon_pack: ai
+#    link: https://scholar.google.co.uk
   - icon: github
     icon_pack: fab
-    link: https://github.com
+    link: https://github.com/BruggenLab
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
