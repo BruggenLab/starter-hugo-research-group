@@ -46,11 +46,11 @@ Atopic dermatitis is a very itchy inflammatory skin disease that affects approxi
 
 Not much is known about possible variations in pathogenesis. Are there genetical differences? To what extent does the microbiome of the skin and gut vary? How much are environmental aspects and nutrition playing a role in the manifestation of the disease? To acquire more knowledge about this topic, we can count on long-standing and growing collaborations with partner hospitals in Tanzania and Madagascar.
 
-Link to the study in Switzerland: [Neurodermitis: Neurodermitis in Europa und Subsahara-Afrika – USZ](https://www.usz.ch/studie/neurodermitis-neurodermitis-in-europa-und-subsahara-afrika/)
+[Link to the study in Switzerland](https://www.usz.ch/studie/neurodermitis-neurodermitis-in-europa-und-subsahara-afrika/)
 
-Study Flyer: [2021_12_23_Flyer_Tanzania_V1.4.pdf (usz.ch)](https://www.usz.ch/app/uploads/2022/02/2021_12_23_Flyer_Tanzania_V1.4.pdf)
+[Link to Flyer](https://www.usz.ch/app/uploads/2022/02/2021_12_23_Flyer_Tanzania_V1.4.pdf)
 
-RDTC – our collaborational partner in Tanzania: [RDTC](https://www.rdtc.ac.tz/)
+[RDTC – our collaborational partner in Tanzania](https://www.rdtc.ac.tz/)
 
 
 ### **Atopic Dermatitis and Cardiovascular Diseases**
