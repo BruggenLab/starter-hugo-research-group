@@ -15,10 +15,11 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['3']
 
 # Publication name and optional abbreviated publication name.
-publication: 'In *Journal of Allergy*'
+publication: '*Journal of Allergy*'
 publication_short: ''
 
-#abstract: Coronavirus
+abstract: Chronic rhinosinusitis with a type 2 inflammatory pattern (T2CRS) is believed to be restricted to the nose and sinuses and associated with polyps, without clear serologic markers. Dupilumab is a promising new therapy in difficult to treat T2CRS. No factors are known to predict dupilumab treatment outcome. Patients undergoing dupilumab treatment were assessed clinically to report ultra-short- and short-term outcome up to 90 days. Serum samples were taken on day 0 and 30 days of treatment, and proteomic analyses were performed using Olink®. The results were compared with healthy controls (HC). The aim was to identify clinical and serological markers associated with a treatment response to dupilumab. Confirmation of predictive parameters was evaluated in a prospective cohort of 20 T2CRS patients. Thirty patients were included, 80% of which were treatment responders. SinoNasalOutcomeTest-20 (SNOT-20) scores and the total nasal polyp score improved significantly (p < .05) on Day 7. An improvement of 2.5 points at the first visit was associated with a favorable outcome with a sensitivity of 86%. Proteomic analyses revealed significant changes compared with HC. Furthermore, we could identify OPG in the serum of dupilumab-treated patients that may serve as a predictor of the clinical outcome of dupilumab treatment. The predictive value of OPG was confirmed in the second cohort. Clinical response after 1 week of treatment with dupilumab is highly associated with a favorable outcome. High sensitivity proteomic analyses can identify T2CRS-specific dysregulated proteins in serum. Serum OPG may serve as a predictor for dupilumab treatment outcome before the initiation of any therapy.
+
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -28,9 +29,9 @@ publication_short: ''
 #featured: false
 
 links:
-#  - name: Custom Link
-#    url: http://example.org
-url_pdf: https://pubmed.ncbi.nlm.nih.gov/34157151/
+  - name:  Link
+    url: https://pubmed.ncbi.nlm.nih.gov/36161658/
+#url_pdf: https://pubmed.ncbi.nlm.nih.gov/34157151/
 #url_code: '#'
 #url_dataset: '#'
 #url_poster: '#'
