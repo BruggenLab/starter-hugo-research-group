@@ -19,7 +19,7 @@ publication_types: ['2']
 publication: '*Allergy* European Journal of Allergy and Clinical Immunology'
 publication_short: ''
 
-abstract: The abundance of Ruminococcus bromii is associated with faecal butyrate levels and atopic dermatitis in infancy.
+abstract: Impaired microbial development and decreased levels of short chain fatty acids, particularly butyrate, is suggested to have a role in the development of atopic dermatitis (AD). Faecal microbiota composition, abundance of selected bacterial groups and fermentation metabolites were compared at 90, 180 and 360 days of life between 27 children who developed AD by age one (AD group), and 39 controls (non-AD group) among the CARE (Childhood AlleRgy, nutrition and Environment) study cohort. Diversity within the Firmicutes and Bacteroidetes phylum in the faecal microbiota was lower in the AD group compared to the non-AD group. Longitudinal analysis showed multiple amplicon sequence variants (ASV) within the same bacterial family to be differentially abundant. Namely, Ruminococcus bromii, a keystone primary starch degrader, and Akkermansia muciniphila, a mucin-utilizer, had lower abundance among the AD group. Children with AD were less likely to have high levels of faecal butyrate at 360 days compared to those without AD (11.5% vs 34.2%). At 360 days, children with high abundance of R. bromii had higher level of butyrate as well as lower proportion of children with AD compared to children with low abundance of R. bromii (11.1-12.5% vs 44.4-52.5%), which was independent of the abundance of the major butyrate producers. Our results suggested that R. bromii and other primary degraders might play an important role in the differences in microbial cross-feeding and metabolite formation between children with and without AD, which may influence the risk of developing the disease.
 
 
 # Summary. An optional shortened abstract.
@@ -29,11 +29,12 @@ abstract: The abundance of Ruminococcus bromii is associated with faecal butyrat
 #  - Source Themes
 #featured: false
 
-# links:
-# - name: ""
-#   url: ""
-url_pdf: https://onlinelibrary.wiley.com/doi/full/10.1111/all.15440
-url_code: ''
+links:
+  - name: Link
+    url: https://pubmed.ncbi.nlm.nih.gov/35917214/
+
+#url_pdf: https://onlinelibrary.wiley.com/doi/full/10.1111/all.15440
+#url_code: ''
 #url_dataset: ''
 #url_poster: ''
 #url_project: ''
