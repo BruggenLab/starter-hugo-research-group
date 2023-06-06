@@ -29,11 +29,11 @@ abstract: Proprotein convertase subtilisin/kexin type-9 (PCSK9) is a posttransla
 #  - Source Themes
 #featured: false
 
-# links:
-# - name: ""
-#   url: ""
-url_pdf: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9462487/
-url_code: ''
+links:
+  - name: Link
+    url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9462487/
+#url_pdf: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9462487/
+#url_code: ''
 #url_dataset: ''
 #url_poster: ''
 #url_project: ''
