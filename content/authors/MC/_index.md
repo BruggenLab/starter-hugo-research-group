@@ -17,21 +17,15 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include ...
 
-interests:
-  - Atopic Dermatitis
-  - Drug allergies (DTH)
+#interests:
+#  - Atopic Dermatitis
+#  - Drug allergies (DTH)
 
-education:
-  courses:
-    - course: PhD in ...
-      institution: Zurich University
-      year: 2012
-    - course: MEs ....
-      institution: Zurich University
-      year: 2009
-    - course: BSc ...
-      institution: Zurich University
-      year: 2008
+#education:
+#  courses:
+#    - course: PhD in ...
+#      institution: Zurich University
+#      year: 2012
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -41,15 +35,12 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:Marie-Charlotte.Brueggen@usz.ch'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.co.uk
+    link: https://pubmed.ncbi.nlm.nih.gov/?term=br%c3%bcggen+mc&sort=date
   - icon: github
     icon_pack: fab
-    link: https://github.com
+    link: https://github.com/BruggenLab
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -68,4 +59,8 @@ user_groups:
   - Members
 ---
 
-Prof. Brüggen is an Assistant Professor for Clinical Allergology of the University Zurich, sponsored by the Kühne Foundation / CK Care. After a PhD in immunology at the Medical University of Vienna and clinical residency in Dermatology and Allergology/Immunology at the University Hospitals in Vienna and Zurich, she now works as a physician scientist between the University Hospital and the Medical Campus and Hochgebirgsklinik Davos. Her overall interest is to enhance the pathomechanistic understanding and improve diagnostic procedures as well as therapeutic approaches of different allergic (dermatological) diseases, namely atopic dermatitis, severe drug hypersensitivity reactions and adipose tissue immunology.
+<br>
+<br>
+<br>
+Prof. Brüggen is an Assistant Professor for Clinical Allergology of the University Zurich, sponsored by the Kühne Foundation / CK-Care. After a PhD in Immunology at the Medical University of Vienna, she did her residencies in Dermatology as well as Allergology/Immunology at the University Hospitals in Vienna and Zurich. She now works as a physician scientist between the
+University Hospital Zurich and the Medical Campus Davos. Her overall interest is to enhance the pathomechanistic understanding and contribute to improved therapeutic approaches of different allergic / dermatological diseases. Her work has been published in high-impact journals and has earned her various awards.
