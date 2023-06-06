@@ -17,22 +17,6 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include ....
 
-interests:
-  - Atopic Dermatitis
-  - Drug allergies (DTH)
-
-education:
-  courses:
-    - course: PhD in ...
-      institution: Zurich University
-      year: 2012
-    - course: MEs ....
-      institution: Zurich University
-      year: 2009
-    - course: BSc ...
-      institution: Zurich University
-      year: 2008
-
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
@@ -58,5 +42,13 @@ highlight_name: false
 user_groups:
   - Members
 ---
-
-TBF by Anna
+<br>
+<br>
+<br>
+Anna is an immunologist with special interest in the role of regulatory T cell populations in
+development of autoimmune and inflammatory diseases. She did her PhD at Lund University, Sweden
+and the a post doc at King's College London. She took a career break to look after her family and
+came back to academia to work on the identification of cellular and molecular signature of human IL-
+10 –producing T cells at the Department of Cellular and Molecular Medicine at Bristol University. After
+moving to Switzerland she joined Prof. Charlotte's Brüggen group to work as Laboratory Manager and
+deepen her knowledge on the role of T cells in the inflammatory skin diseases.
