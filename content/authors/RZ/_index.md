@@ -31,10 +31,10 @@ education:
   courses:
     - course: PhD in Biomedical Engineering
       institution: AO Research institute Davos, Switzerland and Department of Biomedical Engineering, Faculty of Medicine, University of Basel, Switzerland
-      year: 2020
+      year:
     - course: Master of Science in Cellular and Molecular Biology
       institution: Royan Institute, University of Science and Culture, Tehran, Iran
-      year: 2010
+      year:
     - course: Bachelor of Science in Biology
       institution: University of Golestan, Gorgan, Iran
       year:
@@ -47,6 +47,9 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:Reihane.Ziadlou@uzh.ch'
+  - icon: linkedin
+    icon_pack: fab
+    link: 'http://linkedin.com/in/reihane-ziadlou-a6a05b67'
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
