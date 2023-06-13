@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Subcutaneous Adipose Tissue"
+title: "Subcutaneous Adipose Tissue (SAT)"
 summary: ""
 authors:
       -
