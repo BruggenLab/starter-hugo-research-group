@@ -7,7 +7,7 @@ authors:
       -
 tags: []
 categories: []
-date: 2022-11-16T19:01:16+01:00
+date: 2023-06-12T19:01:16+01:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -40,12 +40,16 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-The immunological functions of subcutaneous adipose tissue (SAT) in the context of skin-based or systemic inflammation is poorly investigated. Therefore, a better understanding of the immunological SAT “reservoir” in humans under homeostatic or inflammatory conditions is necessary.
 
-Our studies include a characterization and functional exploration of the cellular and molecular immune players in SAT. We use novel methodologies for spatial phenotyping of skin tissue at the single cell level. To investigate the specific antigens and signaling pathways in SAT, we aim to develop a full thickness skin model consisting of SAT, dermis and epidermis for studying cell-cell interactions and molecular mechanisms.
+### **Subcutaneous Adipose Tissue Inflammation**
 
-Panniculitis is an ideal model for us to understand the mechansims in SAT inflammation. We are currently investigating the immune cell infiltrates in panniculitis (inflammation of adipose tissue) to gain new insights into its underlying pathomechanisms. A central aspect in exploring this is to understand antigen-presentation in SAT including the type of antigen-presenting cells involved and the nature of antigens presented.
+Subcutaneous white adipose tissue (SAT) constitutes the deepest layer of the cutaneous integument. The immunological functions of subcutaneous adipose tissue in the context of skin-based or systemic inflammation is poorly investigated. Therefore, a better understanding of the immunological SAT “reservoir” in humans under homeostatic or inflammatory conditions is necessary.
+Our studies include a characterization and functional exploration of the cellular and molecular immune players in SAT. We use novel methodologies for spatial phenotyping of skin tissue at the single cell level such as imaging mass cytometry (IMC) and spatial transcriptomics.
 
-In terms of therapeutic targeting of SAT inflammation, we are currently developing epigenetic switches for programmable control of inflammation in collaboration with Kyoto university.
+### **Panniculitis (SAT inflammation)**
+Clinical manifestation of SAT inflammation with very diverse etiologies are termed as “panniculitis” which has different clinical and dermatohistopathological phenotypes. The pathomechanisms underlying panniculitis remain largely unknown. Panniculitis is an ideal model for us to understand the mechansims in SAT inflammation. Therefore, we are currently investigating the immune cell infiltrates in panniculitis to gain new insights into its underlying pathomechanisms. A central aspect in exploring this is to understand antigen-presentation in SAT including the type of antigen-presenting cells involved and the nature of antigens presented.
 
-All of the mentioned conditions may be altered in and impacted by obesity. Therefore, modulation of SAT immune responses is a tempting new approach in the future for development of targeted therapies for cutaneous or systemic immune-related diseases.
+### **In vitro model of inflammation in SAT for testing drugs**
+To investigate the effect of drugs in controlling inflammation, we developed in vitro inflammatory model of human adipocytes. In this in vitro system, we tested DNA-based small molecules to target and epigenetically control inflammatory genes involved in SAT inflammation.
+We are also interested in developing a full thickness skin model consisting of SAT, dermis, and epidermis for studying cell-cell interactions and molecular mechanisms.
+Modulation of SAT immune responses is a tempting new approach in the future for development of targeted therapies for cutaneous or systemic immune-related diseases.
