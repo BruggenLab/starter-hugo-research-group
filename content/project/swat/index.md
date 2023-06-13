@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Subcutaneous Adipose Tissue"
-summary: "Subcutaneous adipose tissue: an immunologically active organ"
+summary: ""
 authors:
       -
 tags: []
