@@ -20,20 +20,24 @@ organizations:
 bio: My research interests include ....
 
 interests:
+  - Inflammatory diseases
+  - Adipose tissue inflammation
+  - Epigenetics
+  - Anti-inflammatory drugs
   - Atopic Dermatitis
-  - Drug allergies (DTH)
+  - Drug allergies
 
 education:
   courses:
-    - course: PhD in ...
-      institution: Zurich University
-      year: 2012
-    - course: MEs ....
-      institution: Zurich University
-      year: 2009
-    - course: BSc ...
-      institution: Zurich University
-      year: 2008
+    - course: PhD in Biomedical Engineering
+      institution: AO Research institute Davos, Switzerland and Department of Biomedical Engineering, Faculty of Medicine, University of Basel, Switzerland
+      year: 2020
+    - course: Master of Science in Cellular and Molecular Biology
+      institution: Royan Institute, University of Science and Culture, Tehran, Iran
+      year: 2010
+    - course: Bachelor of Science in Biology
+      institution: University of Golestan, Gorgan, Iran
+      year:
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -60,5 +64,7 @@ highlight_name: false
 user_groups:
   - Members
 ---
+<br>
+Dr. Reihane Ziadlou obtained her PhD degree in the field of Biomedical Engineering in July 2020 from the medical faculty of Basel University and AO research Institute, Davos in Switzerland. Since then, she has started her post-doctoral fellowship at University of Zürich and medicine campus Davos. The main focus of her research is to investigate the immunological function of subcutaneous adipose tissue in cutaneous or systemic inflammation by using imaging mass cytometry (IMC) and other multiplexed transcriptomics and proteomics technologies.
 
-Dr. Reihane Ziadlou obtained her PhD degree in the field of Biomedical Engineering in July 2020 from the medical faculty of Basel University and AO research Institute, Davos in Switzerland. Since then, she has started her post-doctoral fellowship at University of Zürich and medicine campus Davos. The main focus of her research is to investigate the immunological function of subcutaneous adipose tissue in skin-based or systemic inflammation by using high-multiplex imaging mass cytometry technology.
+Concurrently she developed translational projects targeting epigenetics: In 2022, she was awarded a prestigious grant by the Japan Society for Promotion of Science (JSPS) and ETH Zürich for a 3-month postdoctoral fellowship at Kyoto university. She learned a breakthrough technology for targeted therapies using DNA-based small molecules (PIPs).  Using PIPs, she could target and epigenetically regulate inflammation in an in vitro inflammatory model of human tissue.
